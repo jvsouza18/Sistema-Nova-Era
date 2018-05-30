@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<classpathentry kind="src" output="target/classes" path="src/main/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
@@ -37,6 +38,8 @@
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 11.0 Runtime"/>
 	<classpathentry kind="output" path="target/classes"/>
 =======
+=======
+>>>>>>> 25160ece46e3cacae030876981356e3abfe0e770
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="lib/antlr-2.7.7.jar"/>
@@ -57,5 +60,8 @@
 	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.24-bin.jar"/>
 	<classpathentry kind="lib" path="lib/postgresql-9.4.1212.jre6.jar"/>
 	<classpathentry kind="output" path="bin"/>
+<<<<<<< HEAD
+>>>>>>> 25160ece46e3cacae030876981356e3abfe0e770
+=======
 >>>>>>> 25160ece46e3cacae030876981356e3abfe0e770
 </classpath>
